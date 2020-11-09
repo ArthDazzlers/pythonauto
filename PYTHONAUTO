@@ -1,0 +1,5 @@
+# pythonauto
+PYTHONAUTO is a platform GUI Automation Tool which can interact with users command in which new technologies like hadoop , Aws Services ,Networking ,Linux all were integrated 
+in one single program which only need instruction to follow and the program work accordingly.
+Our main file is menu.py before that we need to add two files that is necessary to add and the file name is firstcode and second code implement it in the code then the program 
+will work accordingly without any error
